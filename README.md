@@ -3,5 +3,6 @@ Tensorflow implementation of "Virtual Class Enhanced Discriminative Embedding Le
 
 Original paper : https://papers.nips.cc/paper/7464-virtual-class-enhanced-discriminative-embedding-learning.pdf
 
+* apply softmax loss to the calculated virtual softmax logits during training.
 
 
